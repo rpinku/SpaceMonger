@@ -25,6 +25,8 @@ Space Monger is a Python game where you pilot a starship in pursuit of gold! Col
 4. Run the game:
    ```sh
    python space_monger.py
+   
+   or open index.html to play the js version
 
 ## Features
 * Ten challenging levels with increasing difficulty.
